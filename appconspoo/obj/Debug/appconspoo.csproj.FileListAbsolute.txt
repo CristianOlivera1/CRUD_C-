@@ -1,0 +1,16 @@
+C:\Users\olive\source\repos\appconspoo\appconspoo\obj\Debug\appconspoo.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\appconspoo\appconspoo\obj\Debug\appconspoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\olive\source\repos\appconspoo\appconspoo\obj\Debug\appconspoo.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\appconspoo\appconspoo\bin\Debug\appconspoo.exe.config
+C:\Users\olive\source\repos\appconspoo\appconspoo\bin\Debug\appconspoo.exe
+C:\Users\olive\source\repos\appconspoo\appconspoo\bin\Debug\appconspoo.pdb
+C:\Users\olive\source\repos\appconspoo\appconspoo\obj\Debug\appconspoo.exe
+C:\Users\olive\source\repos\appconspoo\appconspoo\obj\Debug\appconspoo.pdb
+C:\Users\olive\source\repos\menu By Profe\appconspoo\obj\Debug\appconspoo.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\menu By Profe\appconspoo\obj\Debug\appconspoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\olive\source\repos\menu By Profe\appconspoo\obj\Debug\appconspoo.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\menu By Profe\appconspoo\obj\Debug\appconspoo.exe
+C:\Users\olive\source\repos\menu By Profe\appconspoo\obj\Debug\appconspoo.pdb
+C:\Users\olive\source\repos\menu By Profe\appconspoo\bin\Debug\appconspoo.exe.config
+C:\Users\olive\source\repos\menu By Profe\appconspoo\bin\Debug\appconspoo.exe
+C:\Users\olive\source\repos\menu By Profe\appconspoo\bin\Debug\appconspoo.pdb
