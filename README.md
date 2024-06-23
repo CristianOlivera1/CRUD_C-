@@ -13,4 +13,4 @@ El menú principal de la aplicación ofrece las siguientes opciones:
 
 ## 🖼️ Capturas de Pantalla
 
-![CRUD en C#](src/main/resources/img/fond_crud.png)
+![CRUD en C#](img/captura.png)
